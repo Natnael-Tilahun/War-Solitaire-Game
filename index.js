@@ -20,7 +20,6 @@ function handleClick() {
       computerScore = 0;
       computerScoreEl.textContent = `Computer score: ${computerScore}`;
       myScoreEl.textContent = `My score: ${myScore}`;
-      console.log(deckId);
     });
 }
 
